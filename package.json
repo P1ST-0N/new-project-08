@@ -1,0 +1,19 @@
+{
+  "name": "new-project-goit08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P1ST-0N/new-project-goit08.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P1ST-0N/new-project-goit08/issues"
+  },
+  "homepage": "https://github.com/P1ST-0N/new-project-goit08#readme"
+}
