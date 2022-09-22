@@ -1,6 +1,6 @@
-$color: green;
+@import './utils/variables';
+@import './base/reset';
+// @import '';
 
-body{
-  background: $color;
-}
-
+@import './components/section-title';
+@import './components/logo';
