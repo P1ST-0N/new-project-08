@@ -15,7 +15,7 @@
       "**/node_modules/**",
       ".vscode/**"
   ],
-  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.generateMap": true,
   //autoprefix, will auto add perfix like -webkit- -moz-..
   "liveSassCompile.settings.autoprefix": [
       "> 1%",
