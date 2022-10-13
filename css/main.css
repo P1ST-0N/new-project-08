@@ -1221,7 +1221,7 @@ body.modal-open {
           transform: translateY(0);
 }
 
-.portfolio-descroption {
+.portfolio-description {
   position: relative;
   overflow: hidden;
 }
