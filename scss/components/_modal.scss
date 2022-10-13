@@ -221,7 +221,7 @@ textarea {
   line-height: 1.14;
   color: var(--secondary-text-color);
 
-  @media screen and (min-width: 479px) {
+  @media screen and (max-width: 479px) {
     font-size: 10px;
     line-height: 1.11;
   }
@@ -236,7 +236,7 @@ textarea {
   margin-left: 3px;
   color: rgba(33, 150, 243, 1);
 
-  @media screen and (min-width: 479px) {
+  @media screen and (max-width: 479px) {
     position: absolute;
     top: 18px;
     left: 21px;
